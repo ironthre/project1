@@ -1,1 +1,0 @@
-<h1>Hell am about page</h1>
